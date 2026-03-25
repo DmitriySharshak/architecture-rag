@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "original_universe": "Star Wars",
+    "new_universe": "Nexus Dominion"
+  },
+  "characters": {
+    "Luke Skywalker": "Kaelen Vex",
+    "Darth Vader": "Xarn Velgor",
+    "Leia Organa": "Seraphina Valoris",
+    "Han Solo": "Jax Corvin",
+    "Obi-Wan Kenobi": "Eldrin Thorne",
+    "Yoda": "Zephyr Nox",
+    "Palpatine": "Vorath Drakon",
+    "Anakin Skywalker": "Damon Vex",
+    "Chewbacca": "Korr Varn",
+    "R2-D2": "AR-7",
+    "C-3PO": "EL-3X",
+    "Boba Fett": "Torin Kade"
+  },
+  "planets": {
+    "Tatooine": "Dusthal",
+    "Alderaan": "Primara",
+    "Coruscant": "Aetheria Prime",
+    "Hoth": "Glacius",
+    "Endor": "Verdantis",
+    "Dagobah": "Miremoor",
+    "Mustafar": "Infernus",
+    "Kamino": "Aquaris"
+  },
+  "technology_and_weapons": {
+    "Death Star": "Void Core",
+    "Lightsaber": "Phantom Blade",
+    "X-wing": "Striker-class Fighter",
+    "TIE Fighter": "Reaper-class Interceptor",
+    "Star Destroyer": "Oblivion-class Battleship",
+    "Millennium Falcon": "Shadow Runner",
+    "Blaster": "Ion Projector",
+    "Hyperdrive": "Void Drive",
+    "Droid": "Synth Unit"
+  },
+  "organizations": {
+    "Jedi Order": "Order of the Aether",
+    "Sith": "Cult of the Void",
+    "Rebel Alliance": "Free Dominion Coalition",
+    "Galactic Empire": "Imperium of Eternal Dominion",
+    "Republic": "Old Concordium"
+  },
+  "concepts": {
+    "The Force": "Synth Flux",
+    "Dark Side": "Void Corruption",
+    "Light Side": "Aether Harmony",
+    "Jedi Knight": "Aether Sentinel",
+    "Sith Lord": "Void Reaver",
+    "Padawan": "Initiate of the Aether",
+    "Master": "Aether Lord"
+  }
+}

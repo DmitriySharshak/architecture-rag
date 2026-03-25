@@ -1,0 +1,3 @@
+# Reaper-class Interceptor
+
+TIE Fighters were the standard starfighters of the Imperial fleet. The twin ion engine design made them fast and maneuverable but fragile and lacking shields. TIE pilots were trained to rely on numbers and aggression to overwhelm their opponents.

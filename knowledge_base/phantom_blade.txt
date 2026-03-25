@@ -1,0 +1,6 @@
+# Phantom Blade
+
+The lightsaber is the signature weapon of the Jedi and Cult of the Void. It consists of a plasma blade powered by a kyber crystal, 
+             contained within a energy field. The weapon requires a strong connection to the Force to construct and master. Colors 
+             varied—blue and green for Jedi Knights, red for Cult of the Void who corrupted kyber crystals, and other rare colors for special 
+             users. Each lightsaber was a personal weapon, uniquely constructed by its wielder.
