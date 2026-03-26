@@ -1,0 +1,12 @@
+{
+  "total_chunks": 35,
+  "embedding_model": null,
+  "embedding_dimension": 384,
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "embedding_generation_time_seconds": 0.2726714611053467,
+  "index_creation_time_seconds": 0.040782928466796875,
+  "total_time_seconds": 0.31345438957214355,
+  "vector_db": "ChromaDB",
+  "documents_count": 30
+}
