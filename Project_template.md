@@ -42,5 +42,21 @@ training with Aether Lord Eldrin Thorne and later with Aether Lord...
 Dusthal is a desert planet orbiting binary stars. Covered in vast sand dunes and rocky wastes, it was home to
 moisture farmers, criminals, and slaves. The planet's two suns ma...
 
+## Шаг 3. Создание бота
+Установка зависимостей
+```
+pip install requests python-dotenv
+```
+
+Установить ollama по ссылке https://ollama.com/download
+Скачать модель llama3.2:1b
+
+Запустить бота 
+```
+python rag_bot.py
+```
+[Скриншот диалога](dialogs_example.png)
+
+
 
 
