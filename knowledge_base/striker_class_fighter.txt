@@ -1,0 +1,6 @@
+# Striker-class Fighter
+
+The Striker-class Fighter starfighter was the primary starfighter of the Free Dominion Coalition. Its distinctive S-foils could open into 
+             attack position, providing better weapons dispersion and cooling. Armed with four laser cannons and proton torpedoes, 
+             the Striker-class Fighter was versatile enough for both space combat and atmospheric operations. It was instrumental in the attack on 
+             the Void Core.
